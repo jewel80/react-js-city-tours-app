@@ -33,10 +33,9 @@ export const tourData = [
   },
   {
     id: 5,
-    city: "Dhaka City",
-    // img: "./img/newyork.jpeg",
-    img: "https://media.istockphoto.com/photos/dakha-bangladesh-the-national-parliament-aka-jatiya-sangsad-bhaban-picture-id1306893369?b=1&k=20&m=1306893369&s=170667a&w=0&h=sYF3gzOfmJNELTfTu39qPYuBdS1Jt3XQ99DLx1bEh2Q=";
-    name: "natural beauty of dhaka",
+    city: "new york",
+    img: "./img/newyork.jpeg",
+    name: "new york bridge tour",
     info:
       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
   },
