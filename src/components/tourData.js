@@ -45,7 +45,7 @@ export const tourData = [
     img: "./img/paris.jpeg",
     name: "paris lights tour",
     info:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus!"
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel,repellendus! Lorem ipsum dolor sit amet"
   },
   {
     id: 7,
